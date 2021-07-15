@@ -1,0 +1,28 @@
+body{
+	background-image: url("images/C.jpg")
+}
+h1{
+	text-align: center;
+	color: red;
+	font-size: 60px;
+}
+pre{
+	color:red;
+	text-align: center;
+	font-style: bold;
+	font-size: 60px;
+	font-stretch: expanded;
+	line-height: 1.5em
+
+}
+p{
+	text-align: center;
+	font-style: bold;
+	font-size:35px;
+}
+a{
+	color:red;
+}
+a:hover{
+	color:yellow;
+}

@@ -1,0 +1,52 @@
+body{
+	background-image: url("images/D.jpeg");
+}
+h1{
+	text-align: center;
+	font-size: 60px;
+	color:red;
+}
+p1{
+	color:yellow;
+	font-size: 30px;
+}
+p2{
+	color:yellow;
+	font-size: 30px;
+}
+p3{
+    color:yellow;
+	font-size: 30px;
+}
+p4{
+	color:yellow;
+	font-size: 30px;
+}
+p5{
+	color:yellow;
+	font-size: 30px;
+}
+p6{
+	color:yellow;
+	font-size: 30px;
+}
+p7{
+	color:yellow;
+	font-size: 30px;
+}
+p8{
+	color:yellow;
+	font-size: 30px;
+}
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	color:yellow;
+	text-decoration: underline;
+}
+p9{
+	color:yellow;
+	font-size: 35px;
+}

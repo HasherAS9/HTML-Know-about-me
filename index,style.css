@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	font-size: 60px;
+	font-family: all;
+	color:red;
+}
+body{
+	background-image: url("images/A.jpg");
+	text-align: center;
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color:red;
+}
+p1{
+	color:white;
+	font-size: 50px;
+}
